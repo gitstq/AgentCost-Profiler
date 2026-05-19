@@ -1,0 +1,7 @@
+# Core dependencies
+pyyaml>=5.4.0
+
+# Optional dependencies for enhanced functionality
+# Uncomment to install:
+# rich>=10.0.0          # Beautiful terminal output
+# psutil>=5.8.0         # System resource monitoring
